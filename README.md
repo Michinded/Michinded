@@ -99,4 +99,4 @@ Desarrollador Full Stack apasionado por crear soluciones tecnológicas innovador
 - DevOps y Cloud Computing
 
 ---
-💬 *"El código es como el humor: cuando tienes que explicarlo, es malo." - Cory House*
+💬 *"Si puedes imaginarlo, puedes programarlo" - Alejandro Taboada (Programación ATS)*
